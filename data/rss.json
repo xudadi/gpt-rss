@@ -1,5 +1,13 @@
 [
   {
+    "title": "BlogFinder",
+    "rss": "https://xudadi.cn/feeds/readblog.xml"
+  },
+  {
+    "title": "网易轻松一刻",
+    "rss": "https://rsyqvthv.github.io/feeds/163-fun-moment.xml"
+  },
+  {
     "title": "机器之心",
     "rss": "https://rsshub.app/wechat/ce/5b0cc833f3a2e44bb474843d"
   },
